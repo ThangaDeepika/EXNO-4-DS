@@ -31,7 +31,9 @@ import pandas as pd
 df=pd.read_csv('/content/bmi.csv')
 ```
 ![Screenshot 2024-04-16 191022](https://github.com/ThangaDeepika/EXNO-4-DS/assets/125663099/dcec7afd-db09-422f-979a-47003b53dc5e)
+
 ![Screenshot 2024-04-16 191310](https://github.com/ThangaDeepika/EXNO-4-DS/assets/125663099/969e1758-2e87-422f-a7ec-c8bbbf1cc8ba)
+
 ![Screenshot 2024-04-16 191350](https://github.com/ThangaDeepika/EXNO-4-DS/assets/125663099/39eace21-2eaa-4967-a5c5-a7a4157a9a16)
 ```
 from sklearn.preprocessing import StandardScaler
